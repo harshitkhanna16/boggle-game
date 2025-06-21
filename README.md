@@ -58,9 +58,6 @@ boggle-game/
 │
 ├── index.html # Main HTML file
 ├── README.md # Project documentation
-└── (Optional)
-├── style.css # If CSS separated
-└── script.js # If JS separated
 
 
 ## Future Scope
