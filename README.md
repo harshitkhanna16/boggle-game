@@ -5,7 +5,7 @@ A web-based Boggle-style word game built using HTML, CSS, and JavaScript.
 ##  Gameplay Features
 - 4x4 letter grid with smart word embedding
 - Random letters fill the rest of the grid
-- Predefined words (e.g., "CAT", "DOG", "SUN", "FUN") always included
+- Predefined words always included
 - Click-and-drag tile selection to form words
 - Highlighted tile path during selection
 - "Submit" button to check and submit words
