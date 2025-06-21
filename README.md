@@ -68,7 +68,6 @@ boggle-game/
 - Multiplayer Mode (local or online)
 - Dark Mode Toggle
 - Difficulty levels (Easy/Medium/Hard)
-- 
 
 ## Author
 **Harshit Khanna**  
